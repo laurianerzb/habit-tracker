@@ -12,7 +12,7 @@
 - [Author](#author)
 
 ## Description
-This program to use the Pixela API to create a user, a graph, and manage pixel points. 
+This program use the Pixela API to create a user, a graph, and manage pixel points. 
 Pixela is a platform that allows you to create custom graphs and track various data 
 over time.
 
